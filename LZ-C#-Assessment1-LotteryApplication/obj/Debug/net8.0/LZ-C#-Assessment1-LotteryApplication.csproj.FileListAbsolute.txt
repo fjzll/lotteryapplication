@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\bin\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.exe
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\bin\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.deps.json
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\bin\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.runtimeconfig.json
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\bin\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.dll
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\bin\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.pdb
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\obj\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\obj\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\obj\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\obj\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\obj\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.dll
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\obj\Debug\net8.0\refint\LZ-C#-Assessment1-LotteryApplication.dll
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\obj\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.pdb
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\obj\Debug\net8.0\LZ-C#-Assessment1-LotteryApplication.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#\LZ-C#-Assessment1-LotteryApplication\LZ-C#-Assessment1-LotteryApplication\obj\Debug\net8.0\ref\LZ-C#-Assessment1-LotteryApplication.dll
